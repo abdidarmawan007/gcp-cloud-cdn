@@ -1,2 +1,1 @@
-# gcp-cloud-cdn
-Planet-Scale CDN with Google Cloud CDN + Global load balancing 
+### Planet-Scale CDN with Google Cloud CDN + Global load balancing with single anycast IP 
